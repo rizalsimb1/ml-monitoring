@@ -1,0 +1,9 @@
+*.pth
+*.safetensors
+__pycache__/
+*.pyc
+.venv/
+wandb/
+lora-output/
+final-model/
+data/
